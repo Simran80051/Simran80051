@@ -1,10 +1,7 @@
 ## Hi there 👋
 
 
-
-
-
-👋 Hi, I’m Simran Jeet Kaur!
+I’m Simran Jeet Kaur!
 
 Welcome to my GitHub! I'm a passionate tech enthusiast with a keen interest in data analysis, machine learning, and software development. I love solving complex problems and constantly challenge myself to learn new skills to stay ahead in the ever-evolving tech world. Whether it's analyzing data, building applications, or collaborating on innovative projects, I'm always excited to take on new challenges.
 
