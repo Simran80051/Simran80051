@@ -43,44 +43,38 @@ I’m committed to continuous learning and enjoy working on a variety of project
 
 ## 📈 Highlighted Projects
 
-### 1. Car Features and MSRP Analysis
-
-- **Overview:** Investigated car features to analyze their impact on pricing and predict manufacturer’s suggested retail price (MSRP).
-- **Skills:** Data Exploration, Correlation Analysis, Regression Modeling
-- **Tools Used:** Python, Pandas, Matplotlib
-
-### 2. Credit Scoring Model Development
-
-- **Overview:** Developed a model to predict the probability of financial distress for borrowers using credit history data.
-- **Skills:** Data Preprocessing, Machine Learning, Model Evaluation
-- **Tools Used:** Python, Scikit-learn, Pandas
-
-### 3. Diabetes Dataset Analysis
-
-- **Overview:** Analyzed healthcare data to identify patterns and trends related to diabetes diagnosis and risk factors.
-- **Skills:** Data Cleaning, Statistical Analysis, Machine Learning
-- **Tools Used:** Python, Pandas, Seaborn, Scikit-learn
-
-### 4. Innoflo Operational Data Project
+### 1. Innoflo Operational Data Project
 
 - **Overview:** Developed predictive models to analyze how weather conditions impact substations, helping optimize maintenance schedules and operations.
 - **Skills:** Data Analysis, Statistical Analysis, Machine Learning, Predictive Modeling
 - **Tools Used:** Python, Pandas, Scikit-learn, Looker Studio
 - **Outcome:** Enhanced predictive maintenance scheduling, reducing operational costs and improving efficiency.
 
-### 5. Hydrogen Vehicle Game
+### 2. Hydrogen Vehicle Game
 
 - **Overview:** Collaborated with Edmonton Global on an educational car game to promote the 5000 Vehicle Challenge, raising awareness about sustainable hydrogen-powered vehicles.
 - **Skills:** Game Development, Python, Collaboration
 - **Tools Used:** Python, Pygame
 - **Outcome:** Created an engaging and interactive game that educated players on sustainability while having fun!
 
-### 6. Air Contaminant Trend Prediction (NPRI Dataset)
+### 3. Air Contaminant Trend Prediction (NPRI Dataset)
 
 - **Overview:** Currently working on predicting the trends of air contaminants (Sulphur Dioxide, Carbon Monoxide, Volatile Organic Matter, Nitrogen Oxides) for the next five years.
 - **Skills:** Data Analysis, Forecasting, Environmental Data Science
 - **Tools Used:** Python, Pandas, Scikit-learn
 
+### 4. Iris Flower Prediction App
+
+- **Overview:** Developed a Streamlit web application that uses machine learning (Random Forest Classifier) to predict the species of an Iris flower based on its physical features (sepal length, sepal width, petal length, petal width).
+- **Skills:** Machine Learning, Web App Development
+- **Tools Used:** Streamlit, Scikit-learn, Pandas, NumPy
+- **Outcome:** Created an interactive web app that provides real-time flower species predictions based on user input.
+
+### 5. Diabetes Dataset Analysis
+
+- **Overview:** Analyzed healthcare data to identify patterns and trends related to diabetes diagnosis and risk factors.
+- **Skills:** Data Cleaning, Statistical Analysis, Machine Learning
+- **Tools Used:** Python, Pandas, Seaborn, Scikit-learn
 ---
 
 ## 💌 Let’s Connect!
