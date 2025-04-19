@@ -75,6 +75,13 @@ I’m committed to continuous learning and enjoy working on a variety of project
 - **Overview:** Analyzed healthcare data to identify patterns and trends related to diabetes diagnosis and risk factors.
 - **Skills:** Data Cleaning, Statistical Analysis, Machine Learning
 - **Tools Used:** Python, Pandas, Seaborn, Scikit-learn
+
+### 6. Stock Price Prediction using Facebook Prophet
+- **Overview:** Built a time series forecasting model using Facebook Prophet to predict future stock prices based on historical market data from Yahoo Finance.
+- **Skills:** Time Series Forecasting, Data Visualization, Deployment
+- **Tools Used:** Python, Prophet, yfinance, Pandas, Matplotlib, Gradio
+- **Outcome:** Deployed an interactive web app that enables users to forecast stock prices and visualize future trends.
+
 ---
 
 ## 💌 Let’s Connect!
@@ -84,4 +91,3 @@ Feel free to check out my repositories, or reach out if you want to collaborate,
 - **GitHub:** [Simran Jeet Kaur](https://github.com/Simran80051?tab=projects)
 - **LinkedIn:** [in/simran-sidhu-36874b303](https://www.linkedin.com/in/simran-sidhu-36874b303)
 
--->
